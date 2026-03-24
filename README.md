@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋   This is Ashitha 
 
 <!--
 **ashithareez/ashithareez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 MS in Information Systems @ Northeastern University  
-💻 Aspiring Software Engineer 
+🎓 MS in Information Systems @ Northeastern University | GPA:3.8
+- Software Engineer
+- Passionate about building scalable software systems
 
 ### 🔧 Technical Skills
 - **Languages:** Java, Python, JavaScript, SQL
 - **Backend:** REST APIs, FastAPI 
-- **Cloud:** AWS (EC2, S3, RDS, IAM, CloudWatch)
+- **Cloud:** AWS (EC2, S3, IAM, CloudWatch)
+- **Database:** MYSQL,MongoDB
 - **Data & Big Data:** Hadoop, MapReduce, Hive, Pig
 - **ML & AI:** EDA, Random Forest, SHAP, LIME, RAG, LangChain
 - **Tools:** Git, GitHub, Jira, Confluence, Streamlit
